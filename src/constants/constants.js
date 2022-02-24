@@ -45,8 +45,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: '1/12/21', text: 'Started working as a CNA', },
-  { year: 2020, text: 'Moved to Minneapolis', },
-  { year: 2021, text: 'Became a Full Stack Student at Prime Digital Academy', },
-  { year: 2022, text: 'Graduate Feb 18th as a Full Stack Developer'}
+  { year: '9/20/21', text: 'Started my journey as a Software Developer', },
+  { year: '11/01/21', text: 'Made my first calculator', },
+  { year: '11/08/21', text: 'Learned jQuery in 5 days', },
+  { year: '11/23/21', text: 'Introduced to React, built first fullstack app that weekend', },
+  { year: '12/07/21', text: 'First app built with API integration', },
+  { year: '1/18/22', text: 'Presented my completed Full Stack, Full CRUD Solo Project', },
+  { year: '2/18/22', text: 'Graduated as a Full Stack Developer'}
 ];
