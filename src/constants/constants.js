@@ -15,9 +15,11 @@ export const projects = [
   {
     title: 'SPUR Connect',
     description: 
-      `Is a full stack, full CRUD, React based collection manager and deck builder for Magic the Gathering.
-      I built this application for people like my husband and I who have far too many magic cards to keep track 
-      of. Or for people that just want a convenient way to digitally handle their physical collection.`,
+      `The purpose of this application is to give a traveling business professional the ability to 
+      maximize their time and meetings. With SPUR Connect users can get real time information on who 
+      is located near them and open to meetings. This application will make it incredibly easy to 
+      message another user, connect and figure out a time to meet. With a clean, professional, intuitive 
+      interface users will be able to record meeting notes and upload photos of receipts.`,
     image: '/images/spur-connect.png',
     tags: ['React', 'Redux', 'MaterialUI', 'PostgreSQL'],
     source: '',
